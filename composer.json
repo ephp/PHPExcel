@@ -21,7 +21,8 @@
             "name": "Erik Tilt"
         },
         {
-            "name": "Ephraim Pepe"
+            "name": "Ephraim Pepe",
+            "email": "staff@jf-system.com"
         }
     ],
     "require": {
